@@ -1,0 +1,6 @@
+perfectdraw	06-18-24
+plugins/perfectdraw/plugininfo.txt	https://raw.githubusercontent.com/cereemo/perfectdraw/main/plugininfo.txt	148863
+plugins/perfectdraw/sets/carddata.txt	https://raw.githubusercontent.com/cereemo/perfectdraw/main/Sets/carddata.txt	172786
+plugins/perfectdraw/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/cereemo/perfectdraw/main/Sets/SetImages/General/CardBack.jpg	-18688
+CardGeneralURLs:
+https://raw.githubusercontent.com/cereemo/perfectdraw/main/Images/
