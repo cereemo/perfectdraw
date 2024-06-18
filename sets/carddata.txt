@@ -1,0 +1,35 @@
+Name	Set	ImageFile	Type	Strength
+Augury	staples	Augury.png	staples	-
+Destroy	staples	Destroy.png	staples	-
+Double_Strike	staples	Double_Strike.png	staples	-
+Fireball	staples	Fireball.png	staples	-
+Magic Weapon	staples	Magic_Weapon.png	staples	-
+Quick Thinking	staples	Quick_Thinking.png	staples	-
+Reconsider	staples	Reconsider.png	staples	-
+Salve	staples	Salve.png	staples	-
+Silence	staples	Silence.png	staples	-
+Summon Army	staples	Summon_army.png	staples	-
+Summon Dragon	staples	Summon_Dragon.png	staples	-
+Summon Knight	staples	Summon_Knight.png	staples	-
+Ambush	staples	Ambush.png	rogue staples	-
+Blind Justice	staples	Blind_Justice.png	ally staples	-
+Devillish Deal	staples	Devillish_Deal.png	prodigy staples	-
+Divintaion	staples	Divination.png	spirit staples	-
+Fire, Wind, and Water	staples	fire_wind_and_water.png	glowing staples	-
+Jar of Beans	staples	Jar_Of_Beans.png	medium staples	-
+Rising Energy!	staples	Rising_Energy!.png	resolved staples	-
+Sacrifical Altar	staples	Sacrificial_Altar.png	turncoat staples	-
+Soul Syphon	staples	Soul_Syphon.png	ideal staples	-
+The Early Bird	staples	The_Early_Bird.png	destined staples	-
+B.B.B. Star Soldier	elena	Star_Soldier.png	warrior	normal
+B.B.B. Build Instructions	elena	Build_instructions.png	invocation	-
+B.B.B. Support Copter	elena	Support_Copter.png	warrior	normal
+B.B.B. Toybox	elena	Toybox.png	item	normal
+Chained Titan - Prometheus	conrad	Prometheus.png	warrior	strong	-
+Unchaining Key	conrad	Unchaining_Key.png	item	normal
+Curse Speaker	conrad	Curse_Speaker.png	warrior	normal
+Truename Speaker	conrad	Truename_Speaker.png	warrior	normal
+Spirit Samurai Masamure	agathe	Spirit_Samurai_Masamure.png	warrior	normal
+Crossroads Killing	agathe	Crossroads_Killing.png	invocation	-
+Spirit Samurai Hideyokai	agathe	Spirit_Samurai_Hideyokai.png	warrior	normal
+Spirit Samurai Mubanshee	agathe	Spirit_Samurai_Mubanshee.png	warrior	strong

@@ -1,0 +1,101 @@
+<plugin>
+
+<playerstat>
+	<label>health</label>
+</playerstat>
+
+<playerstat>
+	<label>tension</label>
+</playerstat>
+
+<playerstat>
+	<label>advantage</label>
+</playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+	<label>Staples</label>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+	<label>Deck</label>
+</gamezone>
+
+<gamezone>
+	<label>Staples</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+	<label>Graveyard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<phase>
+	<label>action</label>
+</phase>
+
+<generalfunction>
+	<label>untap all</label>
+	<includeasbutton>yes</includeasbutton>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+</generalfunction>
+
+<generalfunction>
+	<label>draw</label>
+	<includeasbutton>yes</includeasbutton>
+	<kind>DRAWCARD</kind>
+</generalfunction>
+
+<generalfunction>
+	<label>flip coin</label>
+	<includeasbutton>yes</includeasbutton>
+	<kind>FLIPCOIN</kind>
+</generalfunction>
+
+<generalfunction>
+	<label>roll dice</label>
+	<includeasbutton>yes</includeasbutton>
+	<kind>ROLLD6</kind>
+</generalfunction>
+
+<cardfunction>
+	<label>add text</label>
+	<kind>EDITNOTE</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>tap</label>
+	<kind>MAKERIGHT90DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>untap</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>counter+1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<positionX>0.5</positionX>
+	<positionY>0</positionY>
+</cardfunction>
+
+<cardfunction>
+	<label>counter-1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>green</color>
+</cardfunction>
+
+</plugin>
