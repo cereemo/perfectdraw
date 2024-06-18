@@ -33,3 +33,10 @@ Spirit Samurai Masamure	agathe	Spirit_Samurai_Masamure.png	warrior	normal
 Crossroads Killing	agathe	Crossroads_Killing.png	invocation	-
 Spirit Samurai Hideyokai	agathe	Spirit_Samurai_Hideyokai.png	warrior	normal
 Spirit Samurai Mubanshee	agathe	Spirit_Samurai_Mubanshee.png	warrior	strong
+invocation token	tokens	invocation_token.png	token	-
+weak item token	tokens	weak_item_token.png	item	token
+normal item token	tokens	normal_item_token.png	token	normal
+strong item token	tokens	strong_item_token.png	token	strong
+weak warrior token	tokens	weak_warrior_token.png	token	weak
+normal warrior token	tokens	normal_warrior_token.png	token	normal
+strong warrior token	tokens	strong_warrior_token.png	token	strong
